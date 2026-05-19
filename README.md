@@ -16,7 +16,7 @@ I'm Pedro Alan, a artist and computer scientist student at Cesupa in Brazil. I l
     title="UNITY"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://devicon-website.vercel.app/api/unity/original.svg"
+    src="https://devicon-website.vercel.app/api/unity/original.svg?color=%23FFFFFF"
 />
 <img 
     align="left" 
