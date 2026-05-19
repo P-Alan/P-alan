@@ -9,14 +9,7 @@ I'm Pedro Alan, a artist and computer scientist student at Cesupa in Brazil. I l
 ---
 
 ### 🤖 Languages and Technologies
-<img 
-    align="left" 
-    alt="RASBERRYPI" 
-    title="RASBERRYPI"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://devicon-website.vercel.app/api/raspberrypi/original.svg"
-/>
+
 <img 
     align="left" 
     alt="UNITY" 
