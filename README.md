@@ -66,14 +66,7 @@ I'm Pedro Alan, a artist and computer scientist student at Cesupa in Brazil. I l
     style="padding-right: 10px;" 
     src="https://devicon-website.vercel.app/api/github/original.svg?color=%23484A7B" 
 />
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="SALESFORCE" 
