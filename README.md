@@ -10,14 +10,7 @@ I'm Pedro Alan, a artist and computer scientist student at Cesupa in Brazil. I l
 
 ### 🤖 Languages and Technologies
 
-<img 
-    align="left" 
-    alt="UNITY" 
-    title="UNITY"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://devicon-website.vercel.app/api/unity/original.svg?color=%23FFFFFF"
-/>
+
 <img 
     align="left" 
     alt="VScode" 
@@ -26,14 +19,7 @@ I'm Pedro Alan, a artist and computer scientist student at Cesupa in Brazil. I l
     style="padding-right: 10px;" 
     src="https://devicon-website.vercel.app/api/vscode/original.svg"
 />
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="JAVA"
